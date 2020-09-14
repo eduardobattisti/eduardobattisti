@@ -10,6 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="eduardobattisti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="eduardobattisti | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
 <br />
 
@@ -34,4 +35,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobattisti&layout=compact)](https://github.com/eduardobattisti/github-readme-stats)
 
 [linkedin]:https://www.linkedin.com/in/eduardo-battisti-59793b187/
+[hackerrank]:https://www.hackerrank.com/eduardobattisti
 
