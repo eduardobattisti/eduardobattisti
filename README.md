@@ -29,5 +29,7 @@
 <br />
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobattisti)](https://github.com/eduardobattisti/github-readme-stats)
+
 [linkedin]:https://www.linkedin.com/in/eduardo-battisti-59793b187/
 
