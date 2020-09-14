@@ -28,8 +28,8 @@
 
 <br />
 <br />
-
-### Used Languages:
+<br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardobattisti&layout=compact)](https://github.com/eduardobattisti/github-readme-stats)
 
