@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="eduardobattisti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href="https://www.linkedin.com/in/eduardo-battisti-59793b187/"/>
+[<img align="left" alt="eduardobattisti | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -29,5 +29,5 @@
 <br />
 <br />
 
-[linkedin]: https://www.linkedin.com/in/eduardo-battisti-59793b187/
+[linkedin]:https://www.linkedin.com/in/eduardo-battisti-59793b187/
 
