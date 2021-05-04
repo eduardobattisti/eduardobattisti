@@ -1,5 +1,7 @@
 ### Hi there, I'm Eduardo 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardobattisti&label=Profile%20views&color=0e75b6&style=flat" alt="eduardobattisti" /> </p>
+
 ## I'm a Computer Science Student who loves learn about technology.
 
 - :brain: I'm currently seeking my degree in Bachelor in Computer Science at University of People.
